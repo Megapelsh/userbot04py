@@ -1,0 +1,7 @@
+.env
+*.env
+venv
+.idea
+*.session
+*.session*
+*.json
